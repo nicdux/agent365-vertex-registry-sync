@@ -31,6 +31,7 @@ através do **Registry sync (preview)**.
 - [Limpeza / evitar custos](#limpeza--evitar-custos)
 - [Segurança](#segurança)
 - [Licença](#licença)
+<img width="1264" height="621" alt="image" src="https://github.com/user-attachments/assets/46dae048-1577-41db-a07a-be197b635c66" />
 
 ---
 
