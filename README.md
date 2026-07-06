@@ -32,6 +32,8 @@ através do **Registry sync (preview)**.
 - [Segurança](#segurança)
 - [Licença](#licença)
 <img width="1264" height="621" alt="image" src="https://github.com/user-attachments/assets/46dae048-1577-41db-a07a-be197b635c66" />
+<img width="1891" height="957" alt="image" src="https://github.com/user-attachments/assets/f4e03e3c-e1c4-4aca-8077-344b979e4dfc" />
+
 
 ---
 
