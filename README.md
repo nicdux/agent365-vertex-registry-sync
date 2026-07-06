@@ -13,6 +13,11 @@ através do **Registry sync (preview)**.
 > Engine (ADK, LangChain, LangGraph, etc.) é descoberto, independente do
 > framework.
 
+> ### ➡️ Continuação
+> **[Parte 2 — Do _Unmanaged_ ao _Managed_ (Entra Agent ID + Observability)](docs/MANAGED-ENTRA-OBSERVABILITY.md)**
+> dá ao mesmo agente uma **identidade Entra própria** e liga a **Observability do
+> Agent 365** (via **Agent 365 SDK** + CLI `a365`) — **sem tocar em `agent.py`**.
+
 ---
 
 ## Índice
@@ -31,6 +36,7 @@ através do **Registry sync (preview)**.
 - [Limpeza / evitar custos](#limpeza--evitar-custos)
 - [Segurança](#segurança)
 - [Licença](#licença)
+- **[Parte 2 — Do _Unmanaged_ ao _Managed_](docs/MANAGED-ENTRA-OBSERVABILITY.md)**
 <img width="1264" height="621" alt="image" src="https://github.com/user-attachments/assets/46dae048-1577-41db-a07a-be197b635c66" />
 <img width="1891" height="957" alt="image" src="https://github.com/user-attachments/assets/f4e03e3c-e1c4-4aca-8077-344b979e4dfc" />
 
