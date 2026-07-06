@@ -7,6 +7,10 @@ service-account*.json
 credentials*.json
 *.pem
 
+# ─── Agent 365 CLI (contém segredo do blueprint protegido por DPAPI) ──
+a365.generated.config.json
+a365.config.json
+
 # ─── Python ──────────────────────────────────────────────────
 .venv/
 venv/

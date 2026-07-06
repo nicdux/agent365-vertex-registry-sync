@@ -1,0 +1,11 @@
+# ── Agente (Google ADK + Gemini / Vertex) ────────────────────
+google-adk
+google-cloud-aiplatform[agent_engines]
+
+# ── Agent 365 Observability (distro Microsoft OpenTelemetry) ──
+# SDK de observabilidade do Agent 365 (camada de governança sobre OTel).
+microsoft-opentelemetry
+# Necessário para o token S2S (client credentials) do exportador.
+msal
+# Carrega variáveis do .env (opcional, usado por my_agent/__init__.py).
+python-dotenv

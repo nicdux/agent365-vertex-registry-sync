@@ -301,3 +301,9 @@ some do registro no próximo sync.
 ## Licença
 
 [MIT](LICENSE) © 2026 Paulo Soares
+
+---
+
+## Parte 2 — Do Unmanaged ao Managed
+
+Identidade Entra + Observability via Agent 365 SDK: veja [MANAGED.md](MANAGED.md).
