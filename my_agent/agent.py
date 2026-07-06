@@ -5,7 +5,7 @@ Este é o arquivo que `adk create my_agent` gera, com o modelo ajustado para
 de um agente ADK é a variável `root_agent`.
 """
 
-from google.adk.agents import Agent
+from google.adk.agents.llm_agent import Agent
 
 root_agent = Agent(
     model="gemini-2.5-flash",
