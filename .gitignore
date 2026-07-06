@@ -1,0 +1,25 @@
+# ─── Segredos — NUNCA commitar ───────────────────────────────
+.env
+*-key.json
+*-sync-key.json
+agent365-sync-key.json
+service-account*.json
+credentials*.json
+*.pem
+
+# ─── Python ──────────────────────────────────────────────────
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# ─── ADK / deploy (pastas temporárias de build) ──────────────
+*_tmp*/
+.adk/
+
+# ─── SO / editor ─────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
