@@ -1,6 +1,6 @@
 # Parte 2 — Do *Unmanaged* ao *Managed* (Entra Agent ID + Observability)
 
-> **TL;DR (English).** Part 1 made a Google **Vertex AI / ADK + Gemini** agent
+(English).** Part 1 made a Google **Vertex AI / ADK + Gemini** agent
 > *visible* in Microsoft Agent 365 via **Registry sync** (status: **Unmanaged**).
 > Part 2 gives that same agent its **own Entra identity** and wires **Agent 365
 > Observability**, moving it toward **Managed** — **without touching `agent.py`**.
